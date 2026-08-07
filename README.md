@@ -192,7 +192,6 @@
 
 <br/><br/>
 
-<blockquote>ℹ️ <b>Setup note:</b> the snake animation above needs a one-time GitHub Action.</blockquote>
 
 <br/><br/>
 
