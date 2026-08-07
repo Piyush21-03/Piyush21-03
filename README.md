@@ -183,6 +183,8 @@
 
 <br/><br/>
 
+<img src="profile-3d-contrib/profile-night-view.svg" width="100%" />
+
 <!-- CONTRIBUTION SNAKE SECTION -->
 <h2>🐍 Contribution Snake</h2>
 
