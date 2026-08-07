@@ -182,15 +182,10 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyush21-03&theme=radical&hide_border=true" width="90%"/>
 
 <br/><br/>
+<!-- CONTRIBUTIONS GRAPH-->
 
 <img src="profile-3d-contrib/profile-night-view.svg" width="100%" />
 
-<!-- CONTRIBUTION SNAKE SECTION -->
-<h2>🐍 Contribution Snake</h2>
-
-<img src="https://raw.githubusercontent.com/Piyush21-03/Piyush21-03/output/github-contribution-grid-snake.svg" alt="Snake animation" width="90%"/>
-
-<br/><br/>
 
 
 <br/><br/>
