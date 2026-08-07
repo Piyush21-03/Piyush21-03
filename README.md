@@ -1,15 +1,22 @@
-<div align="center">
+<div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:8E44AD&height=220&section=header&text=Hi%20there,%20I'm%20Piyush%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20(Data%20Science)%20Undergrad%20%7C%20AI/ML%20%26%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A388EE,100:916BD8&height=200&section=header&text=Hi%20there,%20I'm%20Piyush%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%"/>
 
 <br/>
 
+<!-- SUBTITLE & TYPING ANIMATION -->
+<p align="center">
+  <b>Computer Science (Data Science) Undergrad &nbsp;|&nbsp; AI/ML & Full-Stack Developer</b>
+</p>
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+AI-integrated+applications+%F0%9F%A4%96;Exploring+Generative+AI+%26+Prompt+Engineering+%E2%9C%A8;Solving+DSA+problems+one+day+at+a+time+%F0%9F%92%BB;Always+shipping+something+new+%F0%9F%9A%80&font=Fira%20Code&center=true&width=600&height=45&color=8E44AD&vCenter=true&size=22&pause=1500" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+AI-integrated+applications+%F0%9F%A4%96;Exploring+Generative+AI+%26+Prompt+Engineering+%E2%9C%A8;Solving+DSA+problems+one+day+at+a+time+%F0%9F%92%BB;Always+shipping+something+new+%F0%9F%9A%80&font=Fira+Code&center=true&width=600&height=45&color=916BD8&vCenter=true&size=22&pause=1500" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
 
+<!-- SOCIAL BADGES -->
 <a href="https://www.linkedin.com/in/piyush-panigrahi-64117a330" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -23,30 +30,58 @@
   <img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=Piyush21-03&style=for-the-badge&color=8E44AD&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Piyush21-03&style=for-the-badge&color=916BD8&label=PROFILE+VIEWS" alt="Profile Views" />
 
-</div>
+<br/><br/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-## 🚀 About Me
+<br/><br/>
 
-| | |
-|---|---|
-| 🎓 **Education** | B.Tech CSE (Data Science), ABES Engineering College, Ghaziabad (AKTU) |
-| 📈 **CGPA** | 7.7 &nbsp;·&nbsp; Expected Graduation: July 2028 |
-| 💻 **Focus** | AI-Integrated Apps, Machine Learning, Full-Stack Development |
-| 🧠 **Exploring** | Generative AI, Prompt Engineering, Model Integration |
-| 🛡️ **Internship** | Cybersecurity — IBM SkillsBuild (Virtual) |
-| 🏆 **DSA** | 350+ problems on CodeChef &nbsp;·&nbsp; 90+ on LeetCode |
-| 🌱 **Building** | CampusAI (AI platform) &nbsp;·&nbsp; DailyStore (E-commerce) |
-| 📫 **Contact** | piyushpanigrahi21@gmail.com |
+<!-- ABOUT ME SECTION -->
+<h2>🚀 About Me</h2>
 
-<br/>
+<table width="85%" align="center">
+  <tr>
+    <td align="center">🎓 <b>Education</b></td>
+    <td align="center">B.Tech CSE (Data Science), ABES Engineering College, Ghaziabad (AKTU)</td>
+  </tr>
+  <tr>
+    <td align="center">📈 <b>CGPA</b></td>
+    <td align="center">7.7 &nbsp;·&nbsp; Expected Graduation: July 2028</td>
+  </tr>
+  <tr>
+    <td align="center">💻 <b>Focus</b></td>
+    <td align="center">AI-Integrated Apps, Machine Learning, Full-Stack Development</td>
+  </tr>
+  <tr>
+    <td align="center">🧠 <b>Exploring</b></td>
+    <td align="center">Generative AI, Prompt Engineering, Model Integration</td>
+  </tr>
+  <tr>
+    <td align="center">🛡️ <b>Internship</b></td>
+    <td align="center">Cybersecurity — IBM SkillsBuild (Virtual)<br>
+      Generative AI— IBM SkillsBuild (Virtual)
+    </td>
+  </tr>
+  <tr>
+    <td align="center">🏆 <b>DSA</b></td>
+    <td align="center">350+ problems on CodeChef <br> 95+ on LeetCode</td>
+  </tr>
+  <tr>
+    <td align="center">🌱 <b>Building</b></td>
+    <td align="center">CampusAI (AI platform) &nbsp;·&nbsp; DailyStore (E-commerce)</td>
+  </tr>
+  <tr>
+    <td align="center">📫 <b>Contact</b></td>
+    <td align="center">piyushpanigrahi21@gmail.com<br>+91-8144038125</td>
+  </tr>
+</table>
 
-## 🛠️ Tech Stack
+<br/><br/>
 
-<div align="center">
+<!-- TECH STACK SECTION -->
+<h2>🛠️ Tech Stack</h2>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -60,13 +95,12 @@
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 
-</div>
+<br/><br/>
 
-<br/>
+<!-- CORE FOCUS AREAS SECTION -->
+<h2>💡 Core Focus Areas</h2>
 
-## 💡 Core Focus Areas
-
-<table width="100%">
+<table width="85%" align="center">
   <tr>
     <td align="center" width="33%">🧮<br/><b>Data Structures & Algorithms</b></td>
     <td align="center" width="33%">🤖<br/><b>Machine Learning</b></td>
@@ -79,86 +113,107 @@
   </tr>
 </table>
 
-<br/>
+<br/><br/>
 
-## 🌟 Featured Projects
+<!-- FEATURED PROJECTS SECTION -->
+<h2>🌟 Featured Projects</h2>
 
-<table width="100%">
+<table width="85%" align="center">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" align="center" valign="top">
       <h3>🤖 CampusAI</h3>
       <p><i>Full-Stack AI Platform</i></p>
       <p>A full-stack web application integrating AI and Machine Learning models into campus-focused use cases — connecting frontend, backend, and ML-based intelligent features end-to-end.</p>
+      <br/>
       <img src="https://img.shields.io/badge/Status-In%20Development-yellow?style=flat-square" />
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" align="center" valign="top">
       <h3>🛒 DailyStore</h3>
       <p><i>E-Commerce Website</i></p>
       <p>A fully functional e-commerce platform built with HTML, CSS, and JavaScript — featuring product listing, cart, and checkout flow with a clean, responsive UI/UX.</p>
+      <br/>
       <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square" />
     </td>
   </tr>
 </table>
 
-<br/>
+<br/><br/>
 
-## 🎓 Certifications
+<!-- CERTIFICATIONS SECTION -->
+<h2>🎓 Certifications</h2>
 
-<table width="100%">
-  <tr><td width="70%">☁️ <b>Cloud Architecting</b> — AWS Academy Graduate</td><td width="30%" align="right">Jun 2026</td></tr>
-  <tr><td>☁️ <b>Cloud Foundations</b> — AWS Academy Graduate</td><td align="right">Feb 2026</td></tr>
-  <tr><td>🤖 <b>Getting Started with Artificial Intelligence</b> — IBM SkillsBuild</td><td align="right">Jul 2026</td></tr>
-  <tr><td>📊 <b>Exploratory Data Analysis</b></td><td align="right">—</td></tr>
-  <tr><td>🐍 <b>Python Development</b></td><td align="right">—</td></tr>
+<table width="85%" align="center">
+  <tr>
+    <td align="center" width="70%">☁️ <b>Cloud Architecting</b> — AWS Academy Graduate</td>
+    <td align="center" width="30%">Jun 2026</td>
+  </tr>
+  <tr>
+    <td align="center">☁️ <b>Cloud Foundations</b> — AWS Academy Graduate</td>
+    <td align="center">Feb 2026</td>
+  </tr>
+  <tr>
+    <td align="center">🤖 <b>Getting Started with Artificial Intelligence</b> — IBM SkillsBuild</td>
+    <td align="center">Jul 2026</td>
+  </tr>
+  <tr>
+    <td align="center">📊 <b>Exploratory Data Analysis</b></td>
+    <td align="center">—</td>
+  </tr>
+  <tr>
+    <td align="center">🐍 <b>Python Development</b></td>
+    <td align="center">—</td>
+  </tr>
 </table>
 
-<br/>
+<br/><br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
+<!-- GITHUB STATS SECTION -->
+<h2>📊 GitHub Stats</h2>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Piyush21-03&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Piyush's GitHub Stats" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush21-03&theme=radical&hide_border=true" alt="Piyush's GitHub Streak" height="165"/>
 
+<br/><br/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush21-03&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyush21-03&theme=radical&hide_border=true" width="100%"/>
+<br/><br/>
 
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyush21-03&theme=radical&hide_border=true" width="90%"/>
 
-<br/>
+<br/><br/>
 
-## 🐍 Contribution Snake
+<!-- CONTRIBUTION SNAKE SECTION -->
+<h2>🐍 Contribution Snake</h2>
 
-<div align="center">
+<img src="https://raw.githubusercontent.com/Piyush21-03/Piyush21-03/output/github-contribution-grid-snake.svg" alt="Snake animation" width="90%"/>
 
-<img src="https://raw.githubusercontent.com/Piyush21-03/Piyush21-03/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
+<br/><br/>
 
-</div>
+<blockquote>ℹ️ <b>Setup note:</b> the snake animation above needs a one-time GitHub Action.</blockquote>
 
-> ℹ️ **Setup note:** the snake animation above needs a one-time GitHub Action. See the "Enable the animations" section below.
+<br/><br/>
 
-<br/>
-
-## 🏆 Coding Profiles
-
-<div align="center">
+<!-- CODING PROFILES SECTION -->
+<h2>🏆 Coding Profiles</h2>
 
 <img src="https://img.shields.io/badge/LeetCode-90%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 <img src="https://img.shields.io/badge/CodeChef-350%2B%20Problems%20Solved-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
 
-</div>
+<br/><br/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
+<br/><br/>
+
+<!-- FOOTER / CONNECT SECTION -->
 <div align="center">
 
-### 🤝 Let's Connect
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A388EE,100:916BD8&height=200&section=footer&text=🤝%20Let's%20Connect!&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%"/>
 
-<i>Always open to interesting conversations, collaborations, and new ideas.</i>
+<p><i>Always open to interesting conversations, collaborations, and new ideas.</i></p>
 
-<br/><br/>
+<br/>
 
 <a href="https://www.linkedin.com/in/piyush-panigrahi-64117a330" target="_blank">
   <img src="https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -166,8 +221,4 @@
 
 <br/><br/>
 
-⭐️ From <a href="https://github.com/Piyush21-03">Piyush21-03</a> — Thanks for stopping by!
-
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E44AD,100:6C63FF&height=100&section=footer" width="100%"/>
