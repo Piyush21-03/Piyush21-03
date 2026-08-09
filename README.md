@@ -184,7 +184,7 @@
 <br/><br/>
 <!-- CONTRIBUTIONS GRAPH-->
 
-<img src="profile-3d-contrib/profile-night-view.svg" width="100%" />
+<img src="profile-3d-contrib/profile-night-view.svg?v=2" width="100%" />
 
 
 
