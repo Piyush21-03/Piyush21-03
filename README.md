@@ -66,7 +66,7 @@
   </tr>
   <tr>
     <td align="center">🏆 <b>DSA</b></td>
-    <td align="center">350+ problems on CodeChef <br> 95+ on LeetCode</td>
+    <td align="center">350+ problems on CodeChef <br> 100+ on LeetCode</td>
   </tr>
   <tr>
     <td align="center">🌱 <b>Building</b></td>
