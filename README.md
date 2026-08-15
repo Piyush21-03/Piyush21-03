@@ -48,7 +48,7 @@
   </tr>
   <tr>
     <td align="center">📈 <b>CGPA</b></td>
-    <td align="center">7.7 &nbsp;·&nbsp; Expected Graduation: July 2028</td>
+    <td align="center">7.7 &nbsp;·&nbsp; Expected Graduation: Aug 2028</td>
   </tr>
   <tr>
     <td align="center">💻 <b>Focus</b></td>
@@ -59,14 +59,15 @@
     <td align="center">Generative AI, Prompt Engineering, Model Integration</td>
   </tr>
   <tr>
-    <td align="center">🛡️ <b>Internship</b></td>
-    <td align="center">Cybersecurity — IBM SkillsBuild (Virtual)<br>
-      Generative AI— IBM SkillsBuild (Virtual)
+    <td align="center">💼 <b>Experience</b></td>
+    <td align="center">
+      Generative AI Intern — IBM SkillsBuild (Jul 2026 – Present)<br>
+      Cybersecurity Intern — IBM SkillsBuild (Sep 2025 – Nov 2025)
     </td>
   </tr>
   <tr>
     <td align="center">🏆 <b>DSA</b></td>
-    <td align="center">350+ problems on CodeChef <br> 100+ on LeetCode</td>
+    <td align="center">100+ problems on LeetCode &nbsp;·&nbsp; 350+ on CodeChef</td>
   </tr>
   <tr>
     <td align="center">🌱 <b>Building</b></td>
@@ -90,10 +91,18 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <br/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 
 <br/><br/>
 
@@ -123,14 +132,14 @@
     <td width="50%" align="center" valign="top">
       <h3>🤖 CampusAI</h3>
       <p><i>Full-Stack AI Platform</i></p>
-      <p>A full-stack web application integrating AI and Machine Learning models into campus-focused use cases — connecting frontend, backend, and ML-based intelligent features end-to-end.</p>
+      <p>An AI-powered student support platform built with Python, Flask, JavaScript, LangChain, LangGraph, and the Gemini API. Features RESTful APIs, LLM integration with Retrieval-Augmented Generation (RAG) using Qdrant as the vector database, chatbot automation, and a machine learning-based placement prediction system.</p>
       <br/>
       <img src="https://img.shields.io/badge/Status-In%20Development-yellow?style=flat-square" />
     </td>
     <td width="50%" align="center" valign="top">
       <h3>🛒 DailyStore</h3>
       <p><i>E-Commerce Website</i></p>
-      <p>A fully functional e-commerce platform built with HTML, CSS, and JavaScript — featuring product listing, cart, and checkout flow with a clean, responsive UI/UX.</p>
+      <p>A responsive e-commerce website built with HTML, CSS, JavaScript, and LocalStorage — featuring a product catalog, shopping cart, and checkout flow with reusable UI components, optimized for desktop and mobile.</p>
       <br/>
       <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square" />
     </td>
@@ -144,38 +153,44 @@
 
 <table width="85%" align="center">
   <tr>
-    <td align="center" width="70%">☁️ <b>Cloud Architecting</b> — AWS Academy Graduate</td>
-    <td align="center" width="30%">Jun 2026</td>
+    <td align="center">☁️ <b>AWS Cloud Architecting</b> — AWS Academy Graduate</td>
   </tr>
   <tr>
-    <td align="center">☁️ <b>Cloud Foundations</b> — AWS Academy Graduate</td>
-    <td align="center">Feb 2026</td>
+    <td align="center">☁️ <b>AWS Cloud Foundations</b> — AWS Academy Graduate</td>
   </tr>
   <tr>
-    <td align="center">🤖 <b>Getting Started with Artificial Intelligence</b> — IBM SkillsBuild</td>
-    <td align="center">Jul 2026</td>
+    <td align="center">🤖 <b>IBM AI</b> — IBM SkillsBuild</td>
+  </tr>
+  <tr>
+    <td align="center">🎯 <b>Google AI Studio & Vibe Coding</b></td>
   </tr>
   <tr>
     <td align="center">📊 <b>Exploratory Data Analysis</b></td>
-    <td align="center">—</td>
   </tr>
   <tr>
     <td align="center">🐍 <b>Python Development</b></td>
-    <td align="center">—</td>
   </tr>
 </table>
 
 <br/><br/>
 
 <!-- GITHUB STATS SECTION -->
-<h2>📊 GitHub Stats</h2>
+<h2>📊 Stats</h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Piyush21-03&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Piyush's GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush21-03&theme=radical&hide_border=true" alt="Piyush's GitHub Streak" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Piyush21-03&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Piyush's GitHub Stats" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush21-03&theme=radical&hide_border=true" alt="Piyush's GitHub Streak" height="180"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush21-03&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
+<!-- TOP LANGUAGES (manual) -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
 <br/><br/>
 
@@ -186,17 +201,15 @@
 
 <img src="profile-3d-contrib/profile-night-view.svg?v=2" width="100%" />
 
-
-
 <br/><br/>
 
 <!-- CODING PROFILES SECTION -->
 <h2>🏆 Coding Profiles</h2>
 
-<img src="https://img.shields.io/badge/LeetCode-90%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-<img src="https://img.shields.io/badge/CodeChef-350%2B%20Problems%20Solved-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+<img src="https://leetcard.jacoblin.cool/piyush_200621?theme=dark&ext=heatmap" alt="LeetCode Stats" />
 
 <br/><br/>
+
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
