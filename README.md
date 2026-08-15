@@ -176,9 +176,7 @@
 
 <!-- GITHUB STATS SECTION -->
 <h2>📊 Stats</h2>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Piyush21-03&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Piyush's GitHub Stats" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush21-03&theme=radical&hide_border=true" alt="Piyush's GitHub Streak" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush21-03&theme=radical&hide_border=true" alt="Piyush's GitHub Streak" height="5000"/>
 
 <br/><br/>
 
