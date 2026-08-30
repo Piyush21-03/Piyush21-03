@@ -1,36 +1,39 @@
 <div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A388EE,100:916BD8&height=200&section=header&text=Hi%20there,%20I'm%20Piyush%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0066FF&height=200&section=header&text=Hi%20there,%20I'm%20Piyush%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%"/>
 
 <br/>
 
 <!-- SUBTITLE & TYPING ANIMATION -->
+
 <p align="center">
   <b>Computer Science (Data Science) Undergrad &nbsp;|&nbsp; AI/ML & Full-Stack Developer</b>
 </p>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+AI-integrated+applications+%F0%9F%A4%96;Exploring+Generative+AI+%26+Prompt+Engineering+%E2%9C%A8;Solving+DSA+problems+one+day+at+a+time+%F0%9F%92%BB;Always+shipping+something+new+%F0%9F%9A%80&font=Fira+Code&center=true&width=600&height=45&color=916BD8&vCenter=true&size=22&pause=1500" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+AI-integrated+applications+%F0%9F%A4%96;Exploring+Generative+AI+%26+Prompt+Engineering+%E2%9C%A8;Solving+DSA+problems+one+day+at+a+time+%F0%9F%92%BB;Always+shipping+something+new+%F0%9F%9A%80&font=Fira+Code&center=true&width=600&height=45&color=00D9FF&vCenter=true&size=22&pause=1500" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- SOCIAL BADGES -->
+
 <a href="https://www.linkedin.com/in/piyush-panigrahi-64117a330" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-00A8E8?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/Piyush21-03" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="mailto:piyushpanigrahi21@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-00A8E8?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="tel:8144038125" target="_blank">
-  <img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Call-00D9FF?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=Piyush21-03&style=for-the-badge&color=916BD8&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Piyush21-03&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" alt="Profile Views" />
 
 <br/><br/>
 
@@ -39,6 +42,7 @@
 <br/><br/>
 
 <!-- ABOUT ME SECTION -->
+
 <h2>🚀 About Me</h2>
 
 <table width="85%" align="center">
@@ -75,38 +79,40 @@
   </tr>
   <tr>
     <td align="center">📫 <b>Contact</b></td>
-    <td align="center">piyushpanigrahi21@gmail.com<br>+91-8144038125</td>
+    <td align="center">piyushpanigiri21@gmail.com<br>+91-8144038125</td>
   </tr>
 </table>
 
 <br/><br/>
 
 <!-- TECH STACK SECTION -->
+
 <h2>🛠️ Tech Stack</h2>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-00D9FF?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-0077FF?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-00A8E8?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-00D9FF?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-0077FF?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-00A8E8?style=for-the-badge&logo=css3&logoColor=white" />
 <br/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-111827?style=for-the-badge&logo=flask&logoColor=00D9FF" />
+<img src="https://img.shields.io/badge/FastAPI-00A8E8?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-0077FF?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-00D9FF?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--learn-00A8E8?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 <br/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-0077FF?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-00A8E8?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-00D9FF?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-0077FF?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-00A8E8?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonaws&logoColor=00D9FF" />
 
 <br/><br/>
 
 <!-- CORE FOCUS AREAS SECTION -->
+
 <h2>💡 Core Focus Areas</h2>
 
 <table width="85%" align="center">
@@ -125,6 +131,7 @@
 <br/><br/>
 
 <!-- FEATURED PROJECTS SECTION -->
+
 <h2>🌟 Featured Projects</h2>
 
 <table width="85%" align="center">
@@ -134,14 +141,14 @@
       <p><i>Full-Stack AI Platform</i></p>
       <p>An AI-powered student support platform built with Python, Flask, JavaScript, LangChain, LangGraph, and the Gemini API. Features RESTful APIs, LLM integration with Retrieval-Augmented Generation (RAG) using Qdrant as the vector database, chatbot automation, and a machine learning-based placement prediction system.</p>
       <br/>
-      <img src="https://img.shields.io/badge/Status-In%20Development-yellow?style=flat-square" />
+      <img src="https://img.shields.io/badge/Status-In%20Development-00D9FF?style=flat-square" />
     </td>
     <td width="50%" align="center" valign="top">
       <h3>🛒 DailyStore</h3>
       <p><i>E-Commerce Website</i></p>
       <p>A responsive e-commerce website built with HTML, CSS, JavaScript, and LocalStorage — featuring a product catalog, shopping cart, and checkout flow with reusable UI components, optimized for desktop and mobile.</p>
       <br/>
-      <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square" />
+      <img src="https://img.shields.io/badge/Status-Live-00D9FF?style=flat-square" />
     </td>
   </tr>
 </table>
@@ -149,6 +156,7 @@
 <br/><br/>
 
 <!-- CERTIFICATIONS SECTION -->
+
 <h2>🎓 Certifications</h2>
 
 <table width="85%" align="center">
@@ -175,55 +183,77 @@
 <br/><br/>
 
 <!-- GITHUB STATS SECTION -->
+
 <h2>📊 Stats</h2>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush21-03&theme=radical&hide_border=true" alt="Piyush's GitHub Streak" height="5000"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush21-03&theme=tokyonight&hide_border=true" alt="Piyush's GitHub Streak" width="90%"/>
 
 <br/><br/>
 
-<!-- TOP LANGUAGES (manual) -->
+<!-- TOP LANGUAGES -->
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-00D9FF?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-0077FF?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00A8E8?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-00D9FF?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-0077FF?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-00A8E8?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyush21-03&theme=radical&hide_border=true" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyush21-03&theme=tokyo-night&hide_border=true" width="90%"/>
 
 <br/><br/>
-<!-- CONTRIBUTIONS GRAPH-->
+
+<!-- CONTRIBUTIONS GRAPH -->
 
 <img src="profile-3d-contrib/profile-night-view.svg?v=2" width="100%" />
 
 <br/><br/>
 
 <!-- CODING PROFILES SECTION -->
+
 <h2>🏆 Coding Profiles</h2>
 
 <img src="https://leetcard.jacoblin.cool/piyush_200621?theme=dark&ext=heatmap" alt="LeetCode Stats" />
 
 <br/><br/>
 
+<!-- DAILY MOTIVATION -->
+
+<h2>⚡ Daily Motivation</h2>
+
+<!--
+The quote below is updated automatically every day by the GitHub Action:
+.github/workflows/daily-quote.yml
+-->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&height=100&lines=Discipline+turns+dreams+into+results.;%E2%80%94+Unknown" alt="Daily Motivational Quote" />
+
+</div>
+
+<br/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 <br/><br/>
 
 <!-- FOOTER / CONNECT SECTION -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A388EE,100:916BD8&height=200&section=footer&text=🤝%20Let's%20Connect!&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0066FF&height=200&section=footer&text=🤝%20Let's%20Connect!&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%"/>
 
 <p><i>Always open to interesting conversations, collaborations, and new ideas.</i></p>
 
 <br/>
 
 <a href="https://www.linkedin.com/in/piyush-panigrahi-64117a330" target="_blank">
-  <img src="https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-00A8E8?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <br/><br/>
