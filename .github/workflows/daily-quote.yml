@@ -1,0 +1,93 @@
+name: Update Daily Motivation Quote
+
+on:
+  schedule:
+    - cron: "30 18 * * *" # 12:00 AM IST every day
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-quote:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update quote
+        env:
+          TZ: Asia/Kolkata
+        run: |
+          python3 <<'PY'
+          from pathlib import Path
+          from datetime import date
+
+          readme = Path("README.md")
+          text = readme.read_text(encoding="utf-8")
+
+          quotes = [
+              ("The future depends on what you do today.", "Mahatma Gandhi"),
+              ("It always seems impossible until it's done.", "Nelson Mandela"),
+              ("The only way to do great work is to love what you do.", "Steve Jobs"),
+              ("Believe you can and you're halfway there.", "Theodore Roosevelt"),
+              ("Success is not final, failure is not fatal: it is the courage to continue that counts.", "Winston Churchill"),
+              ("The secret of getting ahead is getting started.", "Mark Twain"),
+              ("Great things are done by a series of small things brought together.", "Vincent van Gogh"),
+              ("Don't watch the clock; do what it does. Keep going.", "Sam Levenson"),
+              ("Hardships often prepare ordinary people for an extraordinary destiny.", "C. S. Lewis"),
+              ("The best way to predict the future is to create it.", "Peter Drucker"),
+              ("Act as if what you do makes a difference. It does.", "William James"),
+              ("Dream big and dare to fail.", "Norman Vincent Peale"),
+              ("You miss 100% of the shots you don't take.", "Wayne Gretzky"),
+              ("What you get by achieving your goals is not as important as what you become by achieving your goals.", "Zig Ziglar"),
+              ("The journey of a thousand miles begins with one step.", "Lao Tzu"),
+              ("If you can dream it, you can do it.", "Walt Disney"),
+              ("A winner is a dreamer who never gives up.", "Nelson Mandela"),
+              ("Everything you've ever wanted is on the other side of fear.", "George Addair"),
+              ("Do what you can, with what you have, where you are.", "Theodore Roosevelt"),
+              ("The harder the conflict, the greater the triumph.", "George Washington"),
+              ("Stay hungry, stay foolish.", "Steve Jobs"),
+              ("Success is the sum of small efforts, repeated day in and day out.", "Robert Collier"),
+              ("You have power over your mind — not outside events. Realize this, and you will find strength.", "Marcus Aurelius"),
+              ("The man who moves a mountain begins by carrying away small stones.", "Confucius"),
+              ("I have not failed. I've just found 10,000 ways that won't work.", "Thomas Edison"),
+              ("Everything is possible for the one who believes.", "Norman Vincent Peale"),
+              ("The only limit to our realization of tomorrow is our doubts of today.", "Franklin D. Roosevelt"),
+              ("Turn your wounds into wisdom.", "Oprah Winfrey"),
+              ("The future belongs to those who believe in the beauty of their dreams.", "Eleanor Roosevelt"),
+              ("Energy and persistence conquer all things.", "Benjamin Franklin"),
+              ("Well done is better than well said.", "Benjamin Franklin"),
+          ]
+
+          # Deterministic daily rotation: same quote for everyone on a given day,
+          # automatically changes on the next day.
+          index = date.today().toordinal() % len(quotes)
+          quote, author = quotes[index]
+
+          start = "<!-- DAILY_QUOTE_START -->"
+          end = "<!-- DAILY_QUOTE_END -->"
+
+          new_block = f"""<!-- DAILY_QUOTE_START -->
+          <br/>
+          <h3>💭 “{quote}”</h3>
+          <p><b>— {author}</b></p>
+          <br/>
+          <!-- DAILY_QUOTE_END -->"""
+
+          if start not in text or end not in text:
+              raise SystemExit("Quote markers not found in README.md")
+
+          before = text.split(start, 1)[0]
+          after = text.split(end, 1)[1]
+          readme.write_text(before + new_block + after, encoding="utf-8")
+          PY
+
+      - name: Commit updated README
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "chore: update daily motivation quote"
+          git push
