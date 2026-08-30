@@ -1,12 +1,9 @@
-<div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+<div align="center">
 
 <!-- HEADER BANNER -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0066FF&height=200&section=header&text=Hi%20there,%20I'm%20Piyush%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0066FF&height=200&section=header&text=Hi%20there,%20I'm%20Piyush%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%"/>
 
 <br/>
-
-<!-- SUBTITLE & TYPING ANIMATION -->
 
 <p align="center">
   <b>Computer Science (Data Science) Undergrad &nbsp;|&nbsp; AI/ML & Full-Stack Developer</b>
@@ -18,20 +15,20 @@
 
 <br/>
 
-<!-- SOCIAL BADGES -->
-
 <a href="https://www.linkedin.com/in/piyush-panigrahi-64117a330" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-00A8E8?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/Piyush21-03" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="mailto:piyushpanigrahi21@gmail.com" target="_blank">
+<a href="mailto:piyushpanigiri21@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-00A8E8?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="tel:8144038125" target="_blank">
+<a href="tel:+918144038125">
   <img src="https://img.shields.io/badge/Call-00D9FF?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
+
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=Piyush21-03&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" alt="Profile Views" />
 
@@ -41,8 +38,6 @@
 
 <br/><br/>
 
-<!-- ABOUT ME SECTION -->
-
 <h2>🚀 About Me</h2>
 
 <table width="85%" align="center">
@@ -51,7 +46,7 @@
     <td align="center">B.Tech CSE (Data Science), ABES Engineering College, Ghaziabad (AKTU)</td>
   </tr>
   <tr>
-    <td align="center">📈 <b>CGPA</b></td> 
+    <td align="center">📈 <b>CGPA</b></td>
     <td align="center">7.7 &nbsp;·&nbsp; Expected Graduation: Aug 2028</td>
   </tr>
   <tr>
@@ -85,8 +80,6 @@
 
 <br/><br/>
 
-<!-- TECH STACK SECTION -->
-
 <h2>🛠️ Tech Stack</h2>
 
 <img src="https://img.shields.io/badge/Python-00D9FF?style=for-the-badge&logo=python&logoColor=white" />
@@ -95,13 +88,17 @@
 <img src="https://img.shields.io/badge/JavaScript-00D9FF?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/HTML5-0077FF?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-00A8E8?style=for-the-badge&logo=css3&logoColor=white" />
+
 <br/>
+
 <img src="https://img.shields.io/badge/Flask-111827?style=for-the-badge&logo=flask&logoColor=00D9FF" />
 <img src="https://img.shields.io/badge/FastAPI-00A8E8?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-0077FF?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-00D9FF?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Scikit--learn-00A8E8?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+
 <br/>
+
 <img src="https://img.shields.io/badge/MySQL-0077FF?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-00A8E8?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-00D9FF?style=for-the-badge&logo=git&logoColor=white" />
@@ -110,8 +107,6 @@
 <img src="https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonaws&logoColor=00D9FF" />
 
 <br/><br/>
-
-<!-- CORE FOCUS AREAS SECTION -->
 
 <h2>💡 Core Focus Areas</h2>
 
@@ -129,8 +124,6 @@
 </table>
 
 <br/><br/>
-
-<!-- FEATURED PROJECTS SECTION -->
 
 <h2>🌟 Featured Projects</h2>
 
@@ -155,42 +148,24 @@
 
 <br/><br/>
 
-<!-- CERTIFICATIONS SECTION -->
-
 <h2>🎓 Certifications</h2>
 
 <table width="85%" align="center">
-  <tr>
-    <td align="center">☁️ <b>AWS Cloud Architecting</b> — AWS Academy Graduate</td>
-  </tr>
-  <tr>
-    <td align="center">☁️ <b>AWS Cloud Foundations</b> — AWS Academy Graduate</td>
-  </tr>
-  <tr>
-    <td align="center">🤖 <b>IBM AI</b> — IBM SkillsBuild</td>
-  </tr>
-  <tr>
-    <td align="center">🎯 <b>Google AI Studio & Vibe Coding</b></td>
-  </tr>
-  <tr>
-    <td align="center">📊 <b>Exploratory Data Analysis</b></td>
-  </tr>
-  <tr>
-    <td align="center">🐍 <b>Python Development</b></td>
-  </tr>
+  <tr><td align="center">☁️ <b>AWS Cloud Architecting</b> — AWS Academy Graduate</td></tr>
+  <tr><td align="center">☁️ <b>AWS Cloud Foundations</b> — AWS Academy Graduate</td></tr>
+  <tr><td align="center">🤖 <b>IBM AI</b> — IBM SkillsBuild</td></tr>
+  <tr><td align="center">🎯 <b>Google AI Studio & Vibe Coding</b></td></tr>
+  <tr><td align="center">📊 <b>Exploratory Data Analysis</b></td></tr>
+  <tr><td align="center">🐍 <b>Python Development</b></td></tr>
 </table>
 
 <br/><br/>
-
-<!-- GITHUB STATS SECTION -->
 
 <h2>📊 Stats</h2>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush21-03&theme=tokyonight&hide_border=true" alt="Piyush's GitHub Streak" width="90%"/>
 
 <br/><br/>
-
-<!-- TOP LANGUAGES -->
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-00D9FF?style=for-the-badge&logo=python&logoColor=white" />
@@ -201,19 +176,15 @@
   <img src="https://img.shields.io/badge/CSS3-00A8E8?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-<br/><br/>
+<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyush21-03&theme=tokyo-night&hide_border=true" width="90%"/>
 
 <br/><br/>
 
-<!-- CONTRIBUTIONS GRAPH -->
-
 <img src="profile-3d-contrib/profile-night-view.svg?v=2" width="100%" />
 
 <br/><br/>
-
-<!-- CODING PROFILES SECTION -->
 
 <h2>🏆 Coding Profiles</h2>
 
@@ -222,19 +193,20 @@
 <br/><br/>
 
 <!-- DAILY MOTIVATION -->
-
 <h2>⚡ Daily Motivation</h2>
 
-<!--
-The quote below is updated automatically every day by the GitHub Action:
-.github/workflows/daily-quote.yml
--->
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&height=100&lines=Discipline+turns+dreams+into+results.;%E2%80%94+Unknown" alt="Daily Motivational Quote" />
-
-</div>
+<table width="85%" align="center" border="1" cellpadding="20">
+  <tr>
+    <td align="center">
+      <!-- DAILY_QUOTE_START -->
+      <br/>
+      <h3>💭 “Success is not final, failure is not fatal: it is the courage to continue that counts.”</h3>
+      <p><b>— Winston Churchill</b></p>
+      <br/>
+      <!-- DAILY_QUOTE_END -->
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -242,11 +214,9 @@ The quote below is updated automatically every day by the GitHub Action:
 
 <br/><br/>
 
-<!-- FOOTER / CONNECT SECTION -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0066FF&height=200&section=footer&text=🤝%20Let's%20Connect!&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0066FF&height=200&section=footer&text=%F0%9F%A4%9D%20Let's%20Connect!&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%"/>
 
 <p><i>Always open to interesting conversations, collaborations, and new ideas.</i></p>
 
@@ -257,5 +227,7 @@ The quote below is updated automatically every day by the GitHub Action:
 </a>
 
 <br/><br/>
+
+</div>
 
 </div>
