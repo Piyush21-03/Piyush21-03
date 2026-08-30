@@ -47,7 +47,7 @@
     <td align="center">B.Tech CSE (Data Science), ABES Engineering College, Ghaziabad (AKTU)</td>
   </tr>
   <tr>
-    <td align="center">📈 <b>CGPA</b></td>
+    <td align="center">📈 <b>CGPA</b></td> 
     <td align="center">7.7 &nbsp;·&nbsp; Expected Graduation: Aug 2028</td>
   </tr>
   <tr>
