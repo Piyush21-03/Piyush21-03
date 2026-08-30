@@ -199,11 +199,11 @@
   <tr>
     <td align="center">
       <!-- DAILY_QUOTE_START -->
-      <br/>
-      <h3>💭 “Success is not final, failure is not fatal: it is the courage to continue that counts.”</h3>
-      <p><b>— Winston Churchill</b></p>
-      <br/>
-      <!-- DAILY_QUOTE_END -->
+<br/>
+<h3>💭 “You miss 100% of the shots you don't take.”</h3>
+<p><b>— Wayne Gretzky</b></p>
+<br/>
+<!-- DAILY_QUOTE_END -->
     </td>
   </tr>
 </table>
