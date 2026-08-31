@@ -200,8 +200,8 @@
     <td align="center">
       <!-- DAILY_QUOTE_START -->
 <br/>
-<h3>💭 “What you get by achieving your goals is not as important as what you become by achieving your goals.”</h3>
-<p><b>— Zig Ziglar</b></p>
+<h3>💭 “The journey of a thousand miles begins with one step.”</h3>
+<p><b>— Lao Tzu</b></p>
 <br/>
 <!-- DAILY_QUOTE_END -->
     </td>
