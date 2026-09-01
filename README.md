@@ -200,8 +200,8 @@
     <td align="center">
       <!-- DAILY_QUOTE_START -->
 <br/>
-<h3>💭 “The journey of a thousand miles begins with one step.”</h3>
-<p><b>— Lao Tzu</b></p>
+<h3>💭 “If you can dream it, you can do it.”</h3>
+<p><b>— Walt Disney</b></p>
 <br/>
 <!-- DAILY_QUOTE_END -->
     </td>
