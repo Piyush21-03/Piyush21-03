@@ -200,8 +200,8 @@
     <td align="center">
       <!-- DAILY_QUOTE_START -->
 <br/>
-<h3>💭 “If you can dream it, you can do it.”</h3>
-<p><b>— Walt Disney</b></p>
+<h3>💭 “A winner is a dreamer who never gives up.”</h3>
+<p><b>— Nelson Mandela</b></p>
 <br/>
 <!-- DAILY_QUOTE_END -->
     </td>
