@@ -200,8 +200,8 @@
     <td align="center">
       <!-- DAILY_QUOTE_START -->
 <br/>
-<h3>💭 “A winner is a dreamer who never gives up.”</h3>
-<p><b>— Nelson Mandela</b></p>
+<h3>💭 “Everything you've ever wanted is on the other side of fear.”</h3>
+<p><b>— George Addair</b></p>
 <br/>
 <!-- DAILY_QUOTE_END -->
     </td>
