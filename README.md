@@ -200,8 +200,8 @@
     <td align="center">
       <!-- DAILY_QUOTE_START -->
 <br/>
-<h3>💭 “Everything you've ever wanted is on the other side of fear.”</h3>
-<p><b>— George Addair</b></p>
+<h3>💭 “Do what you can, with what you have, where you are.”</h3>
+<p><b>— Theodore Roosevelt</b></p>
 <br/>
 <!-- DAILY_QUOTE_END -->
     </td>
