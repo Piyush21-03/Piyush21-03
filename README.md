@@ -1,16 +1,17 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0066FF&height=200&section=header&text=Hi%20there,%20I'm%20Piyush%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%"/>
 
 <br/>
 
 <p align="center">
-  <b>Computer Science (Data Science) Undergrad &nbsp;|&nbsp; AI/ML & Full-Stack Developer</b>
+  <b>Python Developer &nbsp;|&nbsp; GenAI Application Developer</b>
 </p>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+AI-integrated+applications+%F0%9F%A4%96;Exploring+Generative+AI+%26+Prompt+Engineering+%E2%9C%A8;Solving+DSA+problems+one+day+at+a+time+%F0%9F%92%BB;Always+shipping+something+new+%F0%9F%9A%80&font=Fira+Code&center=true&width=600&height=45&color=00D9FF&vCenter=true&size=22&pause=1500" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+AI-integrated+applications+%F0%9F%A4%96;Exploring+Generative+AI+%26+Prompt+Engineering+%E2%9C%A8;Building+RAG-powered+applications+%F0%9F%93%9A;Always+shipping+something+new+%F0%9F%9A%80&font=Fira+Code&center=true&width=600&height=45&color=00D9FF&vCenter=true&size=22&pause=1500" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -43,7 +44,7 @@
 <table width="85%" align="center">
   <tr>
     <td align="center">🎓 <b>Education</b></td>
-    <td align="center">B.Tech CSE (Data Science), ABES Engineering College, Ghaziabad (AKTU)</td>
+    <td align="center">B.Tech CSE (Data Science), ABES Engineering College, AKTU</td>
   </tr>
   <tr>
     <td align="center">📈 <b>CGPA</b></td>
@@ -51,17 +52,17 @@
   </tr>
   <tr>
     <td align="center">💻 <b>Focus</b></td>
-    <td align="center">AI-Integrated Apps, Machine Learning, Full-Stack Development</td>
+    <td align="center">Python Development, GenAI Application Development</td>
   </tr>
   <tr>
     <td align="center">🧠 <b>Exploring</b></td>
-    <td align="center">Generative AI, Prompt Engineering, Model Integration</td>
+    <td align="center">LLMs, RAG, Prompt Engineering, Reranking</td>
   </tr>
   <tr>
     <td align="center">💼 <b>Experience</b></td>
     <td align="center">
-      Generative AI Intern — IBM SkillsBuild (Jul 2026 – Present)<br>
-      Cybersecurity Intern — IBM SkillsBuild (Sep 2025 – Nov 2025)
+      IBM Virtual Internship — Generative AI (Jun 2026 – Aug 2026)<br>
+      IBM Virtual Internship — Cybersecurity (Sep 2025 – Nov 2025)
     </td>
   </tr>
   <tr>
@@ -70,7 +71,7 @@
   </tr>
   <tr>
     <td align="center">🌱 <b>Building</b></td>
-    <td align="center">CampusAI (AI platform) &nbsp;·&nbsp; DailyStore (E-commerce)</td>
+    <td align="center">PaperChat — AI Research Assistant &nbsp;·&nbsp; CampusAI+ — AI Student Support & Placement Predictor</td>
   </tr>
   <tr>
     <td align="center">📫 <b>Contact</b></td>
@@ -91,20 +92,20 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Flask-111827?style=for-the-badge&logo=flask&logoColor=00D9FF" />
 <img src="https://img.shields.io/badge/FastAPI-00A8E8?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-111827?style=for-the-badge&logo=flask&logoColor=00D9FF" />
+<img src="https://img.shields.io/badge/LangChain-00D9FF?style=for-the-badge&logo=chainlink&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-0077FF?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-00D9FF?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Scikit--learn-00A8E8?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/MySQL-0077FF?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-00A8E8?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-0077FF?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Qdrant-00A8E8?style=for-the-badge&logo=qdrant&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-00D9FF?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-0077FF?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-00A8E8?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonaws&logoColor=00D9FF" />
+<img src="https://img.shields.io/badge/GitHub-0077FF?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-00A8E8?style=for-the-badge&logo=docker&logoColor=white" />
 
 <br/><br/>
 
@@ -119,7 +120,7 @@
   <tr>
     <td align="center" width="33%">🗣️<br/><b>Prompt Engineering</b></td>
     <td align="center" width="33%">🌐<br/><b>Full-Stack Development</b></td>
-    <td align="center" width="33%">🎯<br/><b>Vibe Coding</b></td>
+    <td align="center" width="33%">🎯<br/><b>RAG & Reranking</b></td>
   </tr>
 </table>
 
@@ -130,16 +131,16 @@
 <table width="85%" align="center">
   <tr>
     <td width="50%" align="center" valign="top">
-      <h3>🤖 CampusAI</h3>
-      <p><i>Full-Stack AI Platform</i></p>
-      <p>An AI-powered student support platform built with Python, Flask, JavaScript, LangChain, LangGraph, and the Gemini API. Features RESTful APIs, LLM integration with Retrieval-Augmented Generation (RAG) using Qdrant as the vector database, chatbot automation, and a machine learning-based placement prediction system.</p>
+      <h3>📚 PaperChat</h3>
+      <p><i>AI-Powered Research Assistant</i></p>
+      <p>An AI research assistant built with Python, FastAPI, LangChain, Gemini 2.5 Flash, and Qdrant for document-based conversational Q&A with page-level source citations. Features a 5-stage hybrid RAG pipeline combining query rewriting, dense vector search, BM25 retrieval, Reciprocal Rank Fusion, and cross-encoder reranking.</p>
       <br/>
       <img src="https://img.shields.io/badge/Status-In%20Development-00D9FF?style=flat-square" />
     </td>
     <td width="50%" align="center" valign="top">
-      <h3>🛒 DailyStore</h3>
-      <p><i>E-Commerce Website</i></p>
-      <p>A responsive e-commerce website built with HTML, CSS, JavaScript, and LocalStorage — featuring a product catalog, shopping cart, and checkout flow with reusable UI components, optimized for desktop and mobile.</p>
+      <h3>🤖 CampusAI+</h3>
+      <p><i>AI Student Support & Placement Predictor</i></p>
+      <p>A Flask-based AI platform with Gemini-powered student support and ML-based placement prediction for academic, programming, interview, and career assistance. Includes REST APIs for real-time predictions, placement status, and personalized Gemini-generated career guidance.</p>
       <br/>
       <img src="https://img.shields.io/badge/Status-Live-00D9FF?style=flat-square" />
     </td>
@@ -193,6 +194,7 @@
 <br/><br/>
 
 <!-- DAILY MOTIVATION -->
+
 <h2>⚡ Daily Motivation</h2>
 
 <table width="85%" align="center" border="1" cellpadding="20">
