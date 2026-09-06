@@ -202,8 +202,8 @@
     <td align="center">
       <!-- DAILY_QUOTE_START -->
 <br/>
-<h3>💭 “The harder the conflict, the greater the triumph.”</h3>
-<p><b>— George Washington</b></p>
+<h3>💭 “Stay hungry, stay foolish.”</h3>
+<p><b>— Steve Jobs</b></p>
 <br/>
 <!-- DAILY_QUOTE_END -->
     </td>
