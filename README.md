@@ -179,7 +179,7 @@
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyush21-03&theme=tokyo-night&hide_border=true" width="90%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Piyush21-03&theme=tokyonight" width="90%"/>
 
 <br/><br/>
 
