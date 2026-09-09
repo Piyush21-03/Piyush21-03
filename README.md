@@ -202,8 +202,8 @@
     <td align="center">
       <!-- DAILY_QUOTE_START -->
 <br/>
-<h3>💭 “You have power over your mind — not outside events. Realize this, and you will find strength.”</h3>
-<p><b>— Marcus Aurelius</b></p>
+<h3>💭 “The man who moves a mountain begins by carrying away small stones.”</h3>
+<p><b>— Confucius</b></p>
 <br/>
 <!-- DAILY_QUOTE_END -->
     </td>
