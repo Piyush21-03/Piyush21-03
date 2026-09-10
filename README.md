@@ -202,8 +202,8 @@
     <td align="center">
       <!-- DAILY_QUOTE_START -->
 <br/>
-<h3>💭 “The man who moves a mountain begins by carrying away small stones.”</h3>
-<p><b>— Confucius</b></p>
+<h3>💭 “I have not failed. I've just found 10,000 ways that won't work.”</h3>
+<p><b>— Thomas Edison</b></p>
 <br/>
 <!-- DAILY_QUOTE_END -->
     </td>
