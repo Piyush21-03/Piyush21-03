@@ -202,8 +202,8 @@
     <td align="center">
       <!-- DAILY_QUOTE_START -->
 <br/>
-<h3>💭 “I have not failed. I've just found 10,000 ways that won't work.”</h3>
-<p><b>— Thomas Edison</b></p>
+<h3>💭 “Everything is possible for the one who believes.”</h3>
+<p><b>— Norman Vincent Peale</b></p>
 <br/>
 <!-- DAILY_QUOTE_END -->
     </td>
