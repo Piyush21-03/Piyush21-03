@@ -202,8 +202,8 @@
     <td align="center">
       <!-- DAILY_QUOTE_START -->
 <br/>
-<h3>💭 “Everything is possible for the one who believes.”</h3>
-<p><b>— Norman Vincent Peale</b></p>
+<h3>💭 “The only limit to our realization of tomorrow is our doubts of today.”</h3>
+<p><b>— Franklin D. Roosevelt</b></p>
 <br/>
 <!-- DAILY_QUOTE_END -->
     </td>
