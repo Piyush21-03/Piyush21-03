@@ -202,8 +202,8 @@
     <td align="center">
       <!-- DAILY_QUOTE_START -->
 <br/>
-<h3>💭 “Turn your wounds into wisdom.”</h3>
-<p><b>— Oprah Winfrey</b></p>
+<h3>💭 “The future belongs to those who believe in the beauty of their dreams.”</h3>
+<p><b>— Eleanor Roosevelt</b></p>
 <br/>
 <!-- DAILY_QUOTE_END -->
     </td>
