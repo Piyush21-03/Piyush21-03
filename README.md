@@ -202,8 +202,8 @@
     <td align="center">
       <!-- DAILY_QUOTE_START -->
 <br/>
-<h3>💭 “The future belongs to those who believe in the beauty of their dreams.”</h3>
-<p><b>— Eleanor Roosevelt</b></p>
+<h3>💭 “Energy and persistence conquer all things.”</h3>
+<p><b>— Benjamin Franklin</b></p>
 <br/>
 <!-- DAILY_QUOTE_END -->
     </td>
