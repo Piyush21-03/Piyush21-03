@@ -202,7 +202,7 @@
     <td align="center">
       <!-- DAILY_QUOTE_START -->
 <br/>
-<h3>💭 “Energy and persistence conquer all things.”</h3>
+<h3>💭 “Well done is better than well said.”</h3>
 <p><b>— Benjamin Franklin</b></p>
 <br/>
 <!-- DAILY_QUOTE_END -->
