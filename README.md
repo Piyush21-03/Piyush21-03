@@ -202,8 +202,8 @@
     <td align="center">
       <!-- DAILY_QUOTE_START -->
 <br/>
-<h3>💭 “The only way to do great work is to love what you do.”</h3>
-<p><b>— Steve Jobs</b></p>
+<h3>💭 “Believe you can and you're halfway there.”</h3>
+<p><b>— Theodore Roosevelt</b></p>
 <br/>
 <!-- DAILY_QUOTE_END -->
     </td>
