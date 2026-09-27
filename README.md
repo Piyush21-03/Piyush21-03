@@ -202,8 +202,8 @@
     <td align="center">
       <!-- DAILY_QUOTE_START -->
 <br/>
-<h3>💭 “The best way to predict the future is to create it.”</h3>
-<p><b>— Peter Drucker</b></p>
+<h3>💭 “Act as if what you do makes a difference. It does.”</h3>
+<p><b>— William James</b></p>
 <br/>
 <!-- DAILY_QUOTE_END -->
     </td>
