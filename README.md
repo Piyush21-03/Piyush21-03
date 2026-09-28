@@ -202,8 +202,8 @@
     <td align="center">
       <!-- DAILY_QUOTE_START -->
 <br/>
-<h3>💭 “Act as if what you do makes a difference. It does.”</h3>
-<p><b>— William James</b></p>
+<h3>💭 “Dream big and dare to fail.”</h3>
+<p><b>— Norman Vincent Peale</b></p>
 <br/>
 <!-- DAILY_QUOTE_END -->
     </td>
