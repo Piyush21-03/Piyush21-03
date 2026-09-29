@@ -202,8 +202,8 @@
     <td align="center">
       <!-- DAILY_QUOTE_START -->
 <br/>
-<h3>💭 “Dream big and dare to fail.”</h3>
-<p><b>— Norman Vincent Peale</b></p>
+<h3>💭 “You miss 100% of the shots you don't take.”</h3>
+<p><b>— Wayne Gretzky</b></p>
 <br/>
 <!-- DAILY_QUOTE_END -->
     </td>
