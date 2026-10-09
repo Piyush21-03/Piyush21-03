@@ -202,8 +202,8 @@
     <td align="center">
       <!-- DAILY_QUOTE_START -->
 <br/>
-<h3>💭 “Success is the sum of small efforts, repeated day in and day out.”</h3>
-<p><b>— Robert Collier</b></p>
+<h3>💭 “You have power over your mind — not outside events. Realize this, and you will find strength.”</h3>
+<p><b>— Marcus Aurelius</b></p>
 <br/>
 <!-- DAILY_QUOTE_END -->
     </td>
