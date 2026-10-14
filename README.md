@@ -202,8 +202,8 @@
     <td align="center">
       <!-- DAILY_QUOTE_START -->
 <br/>
-<h3>💭 “The only limit to our realization of tomorrow is our doubts of today.”</h3>
-<p><b>— Franklin D. Roosevelt</b></p>
+<h3>💭 “Turn your wounds into wisdom.”</h3>
+<p><b>— Oprah Winfrey</b></p>
 <br/>
 <!-- DAILY_QUOTE_END -->
     </td>
