@@ -202,8 +202,8 @@
     <td align="center">
       <!-- DAILY_QUOTE_START -->
 <br/>
-<h3>💭 “Well done is better than well said.”</h3>
-<p><b>— Benjamin Franklin</b></p>
+<h3>💭 “The future depends on what you do today.”</h3>
+<p><b>— Mahatma Gandhi</b></p>
 <br/>
 <!-- DAILY_QUOTE_END -->
     </td>
