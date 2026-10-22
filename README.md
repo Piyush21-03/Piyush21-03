@@ -202,8 +202,8 @@
     <td align="center">
       <!-- DAILY_QUOTE_START -->
 <br/>
-<h3>💭 “Believe you can and you're halfway there.”</h3>
-<p><b>— Theodore Roosevelt</b></p>
+<h3>💭 “Success is not final, failure is not fatal: it is the courage to continue that counts.”</h3>
+<p><b>— Winston Churchill</b></p>
 <br/>
 <!-- DAILY_QUOTE_END -->
     </td>
