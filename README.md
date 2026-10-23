@@ -202,8 +202,8 @@
     <td align="center">
       <!-- DAILY_QUOTE_START -->
 <br/>
-<h3>💭 “Success is not final, failure is not fatal: it is the courage to continue that counts.”</h3>
-<p><b>— Winston Churchill</b></p>
+<h3>💭 “The secret of getting ahead is getting started.”</h3>
+<p><b>— Mark Twain</b></p>
 <br/>
 <!-- DAILY_QUOTE_END -->
     </td>
