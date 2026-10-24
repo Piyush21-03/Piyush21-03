@@ -202,8 +202,8 @@
     <td align="center">
       <!-- DAILY_QUOTE_START -->
 <br/>
-<h3>💭 “The secret of getting ahead is getting started.”</h3>
-<p><b>— Mark Twain</b></p>
+<h3>💭 “Great things are done by a series of small things brought together.”</h3>
+<p><b>— Vincent van Gogh</b></p>
 <br/>
 <!-- DAILY_QUOTE_END -->
     </td>
