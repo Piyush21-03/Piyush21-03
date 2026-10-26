@@ -202,8 +202,8 @@
     <td align="center">
       <!-- DAILY_QUOTE_START -->
 <br/>
-<h3>💭 “Don't watch the clock; do what it does. Keep going.”</h3>
-<p><b>— Sam Levenson</b></p>
+<h3>💭 “Hardships often prepare ordinary people for an extraordinary destiny.”</h3>
+<p><b>— C. S. Lewis</b></p>
 <br/>
 <!-- DAILY_QUOTE_END -->
     </td>
