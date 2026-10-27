@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="250" viewBox="0 0 900 250">
+<defs><linearGradient id="g1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#00D9FF"/><stop offset="1" stop-color="#0066FF"/></linearGradient></defs>
+<style>text{font-family:'Segoe UI',Ubuntu,Arial,sans-serif}.ch{animation:float 5s ease-in-out infinite}@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-5px)}}.h{opacity:0;animation:fade 1.2s .2s forwards}@keyframes fade{to{opacity:1}}</style>
+<text class="h" x="450.0" y="30" font-size="19" font-weight="700" fill="#e2e8f0" text-anchor="middle">I build AI-integrated applications: from RAG pipelines to full-stack products.</text>
+<text class="h" x="450.0" y="54" font-size="14" fill="#94a3b8" text-anchor="middle">Python · LLMs · Prompt Engineering · Flask / FastAPI</text>
+<g class="ch" style="animation-delay:0.0s" transform="translate(4,70)">
+<rect width="205" height="150" rx="16" fill="#0f172a" stroke="url(#g1)" stroke-width="1.5"/>
+<text x="102.5" y="52" font-size="32" text-anchor="middle">🎓</text>
+<text x="102.5" y="88" font-size="14" font-weight="700" fill="#fff" text-anchor="middle">B.Tech CSE (Data Science)</text>
+<text x="102.5" y="112" font-size="11.5" fill="#94a3b8" text-anchor="middle">ABES Engineering College · AKTU</text>
+<rect x="30" y="128" width="145" height="3" rx="2" fill="#1e293b"/><rect x="30" y="128" width="0" height="3" rx="2" fill="url(#g1)"><animate attributeName="width" values="0;145;145;0" keyTimes="0;.4;.9;1" dur="8s" begin="0.0s" repeatCount="indefinite"/></rect>
+</g><g class="ch" style="animation-delay:0.5s" transform="translate(236,70)">
+<rect width="205" height="150" rx="16" fill="#0f172a" stroke="url(#g1)" stroke-width="1.5"/>
+<text x="102.5" y="52" font-size="32" text-anchor="middle">📈</text>
+<text x="102.5" y="88" font-size="14" font-weight="700" fill="#fff" text-anchor="middle">CGPA 7.7</text>
+<text x="102.5" y="112" font-size="11.5" fill="#94a3b8" text-anchor="middle">Expected graduation Aug 2028</text>
+<rect x="30" y="128" width="145" height="3" rx="2" fill="#1e293b"/><rect x="30" y="128" width="0" height="3" rx="2" fill="url(#g1)"><animate attributeName="width" values="0;145;145;0" keyTimes="0;.4;.9;1" dur="8s" begin="0.5s" repeatCount="indefinite"/></rect>
+</g><g class="ch" style="animation-delay:1.0s" transform="translate(468,70)">
+<rect width="205" height="150" rx="16" fill="#0f172a" stroke="url(#g1)" stroke-width="1.5"/>
+<text x="102.5" y="52" font-size="32" text-anchor="middle">💼</text>
+<text x="102.5" y="88" font-size="14" font-weight="700" fill="#fff" text-anchor="middle">2 IBM Virtual Internships</text>
+<text x="102.5" y="112" font-size="11.5" fill="#94a3b8" text-anchor="middle">Generative AI · Cybersecurity</text>
+<rect x="30" y="128" width="145" height="3" rx="2" fill="#1e293b"/><rect x="30" y="128" width="0" height="3" rx="2" fill="url(#g1)"><animate attributeName="width" values="0;145;145;0" keyTimes="0;.4;.9;1" dur="8s" begin="1.0s" repeatCount="indefinite"/></rect>
+</g><g class="ch" style="animation-delay:1.5s" transform="translate(700,70)">
+<rect width="205" height="150" rx="16" fill="#0f172a" stroke="url(#g1)" stroke-width="1.5"/>
+<text x="102.5" y="52" font-size="32" text-anchor="middle">🧩</text>
+<text x="102.5" y="88" font-size="14" font-weight="700" fill="#fff" text-anchor="middle">450+ DSA problems</text>
+<text x="102.5" y="112" font-size="11.5" fill="#94a3b8" text-anchor="middle">100+ LeetCode · 350+ CodeChef</text>
+<rect x="30" y="128" width="145" height="3" rx="2" fill="#1e293b"/><rect x="30" y="128" width="0" height="3" rx="2" fill="url(#g1)"><animate attributeName="width" values="0;145;145;0" keyTimes="0;.4;.9;1" dur="8s" begin="1.5s" repeatCount="indefinite"/></rect>
+</g>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="428" height="328" viewBox="-4 -4 428 328"><defs>
+  <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#00D9FF"/><stop offset="1" stop-color="#0066FF"/></linearGradient>
+  <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0f172a"/><stop offset="1" stop-color="#111c36"/></linearGradient>
+</defs>
+<style>
+  text{font-family:'Segoe UI',Ubuntu,Arial,sans-serif}
+  .mono{font-family:'Fira Code',Consolas,monospace}
+  .front,.back{transform-box:fill-box;transform-origin:center;animation-name:flipF;animation-iteration-count:infinite;animation-timing-function:ease-in-out}
+  .back{animation-name:flipB;transform:scaleX(0)}
+  @keyframes flipF{0%,38%{transform:scaleX(1)}48%,88%{transform:scaleX(0)}98%,100%{transform:scaleX(1)}}
+  @keyframes flipB{0%,42%{transform:scaleX(0)}52%,84%{transform:scaleX(1)}94%,100%{transform:scaleX(0)}}
+  .glow{animation:pulse 3s ease-in-out infinite}
+  @keyframes pulse{0%,100%{opacity:.55}50%{opacity:1}}
+  .dash{stroke-dasharray:6 6;animation:dash 2s linear infinite}
+  @keyframes dash{to{stroke-dashoffset:-24}}
+  .float{animation:float 4s ease-in-out infinite}
+  @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}
+</style>
+
+  <g transform="translate(0,0)">
+    <g class="front c" style="animation-delay:0s;animation-duration:9s"><rect width="420" height="320" rx="18" fill="url(#bg)" stroke="url(#g1)" stroke-width="2"/><circle cx="370" cy="50" r="60" fill="#00D9FF" opacity=".08" class="glow"/><text x="210.0" y="95" font-size="52" fill="#e2e8f0" font-weight="normal" text-anchor="middle" class="float">📚</text><text x="210.0" y="150" font-size="28" fill="#ffffff" font-weight="bold" text-anchor="middle" class="">PaperChat</text><text x="210.0" y="178" font-size="14" fill="#00D9FF" font-weight="normal" text-anchor="middle" class="">AI-Powered Research Assistant</text><rect x="140.0" y="200" width="140" height="28" rx="14" fill="#FFB020" opacity=".18" stroke="#FFB020"/><text x="210.0" y="219" font-size="13" fill="#FFB020" font-weight="bold" text-anchor="middle" class="">IN DEVELOPMENT</text><rect x="68.0" y="250" width="56" height="24" rx="12" fill="#0066FF" opacity=".25"/><text x="96.0" y="267" font-size="12" fill="#e2e8f0" font-weight="normal" text-anchor="middle" class="">Python</text><rect x="132.0" y="250" width="63" height="24" rx="12" fill="#0066FF" opacity=".25"/><text x="163.5" y="267" font-size="12" fill="#e2e8f0" font-weight="normal" text-anchor="middle" class="">FastAPI</text><rect x="203.0" y="250" width="77" height="24" rx="12" fill="#0066FF" opacity=".25"/><text x="241.5" y="267" font-size="12" fill="#e2e8f0" font-weight="normal" text-anchor="middle" class="">LangChain</text><rect x="288.0" y="250" width="56" height="24" rx="12" fill="#0066FF" opacity=".25"/><text x="316.0" y="267" font-size="12" fill="#e2e8f0" font-weight="normal" text-anchor="middle" class="">Qdrant</text><text x="210.0" y="303" font-size="11" fill="#64748b" font-weight="normal" text-anchor="middle" class="mono">↻ flipping to details...</text></g>
+    <g class="back c" style="animation-delay:0s;animation-duration:9s"><rect width="420" height="320" rx="18" fill="url(#bg)" stroke="#00D9FF" stroke-width="2"/><text x="28" y="48" font-size="18" fill="#00D9FF" font-weight="bold" text-anchor="start" class="">Under the hood</text><line x1="28" y1="60" x2="392" y2="60" stroke="#00D9FF" class="dash" opacity=".6"/><circle cx="38" cy="87" r="4" fill="#00D9FF"/><text x="52" y="92" font-size="13" fill="#e2e8f0" font-weight="normal" text-anchor="start" class="">5-stage hybrid RAG pipeline</text><circle cx="38" cy="131" r="4" fill="#00D9FF"/><text x="52" y="136" font-size="13" fill="#e2e8f0" font-weight="normal" text-anchor="start" class="">Query rewrite → Dense + BM25 search</text><circle cx="38" cy="175" r="4" fill="#00D9FF"/><text x="52" y="180" font-size="13" fill="#e2e8f0" font-weight="normal" text-anchor="start" class="">Reciprocal Rank Fusion + reranking</text><circle cx="38" cy="219" r="4" fill="#00D9FF"/><text x="52" y="224" font-size="13" fill="#e2e8f0" font-weight="normal" text-anchor="start" class="">Page-level source citations</text><circle cx="38" cy="263" r="4" fill="#00D9FF"/><text x="52" y="268" font-size="13" fill="#e2e8f0" font-weight="normal" text-anchor="start" class="">Gemini 2.5 Flash answers</text></g>
+  </g>
+</svg>
