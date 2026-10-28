@@ -194,11 +194,11 @@ flowchart LR
 
 <!-- 3D contribution graph: generated daily by the GitHub Actions workflow in .github/workflows/profile-3d.yml -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Piyush21-03/Piyush21-03/profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D GitHub contribution graph"/>
+  <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D GitHub contribution graph"/>
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Piyush21-03?theme=dark&font=Fira%20Code&ext=heatmap" width="500" alt="LeetCode stats (if the username matches the LeetCode profile)"/>
+  <img src="https://leetcard.jacoblin.cool/piyush_200621?theme=dark&font=Fira%20Code&ext=heatmap" width="500" alt="Piyush Panigrahi LeetCode stats"/>
 </p>
 
 <br/>
