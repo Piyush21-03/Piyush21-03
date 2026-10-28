@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="205" viewBox="0 0 1100 205">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#100000"/><stop offset="100%" stop-color="#241010"/></linearGradient></defs>
+<rect x="1" y="1" width="1098" height="203" rx="16" fill="url(#bg)" stroke="#702020" stroke-width="2"/>
+<rect x="1" y="1" width="7" height="203" rx="3" fill="#ff3030"/>
+<text x="32" y="42" font-family="Segoe UI,Arial,sans-serif" font-size="23" font-weight="700" fill="#ff5b5b">Hello, I'm Piyush 👋</text>
+<text x="32" y="77" font-family="Segoe UI,Arial,sans-serif" font-size="17" fill="#f2f2f2">B.Tech CSE (Data Science) student at ABES Engineering College, graduating in 2028.</text>
+<text x="32" y="108" font-family="Segoe UI,Arial,sans-serif" font-size="17" fill="#dddddd">I build AI applications with Python, FastAPI, LLMs, and Retrieval-Augmented Generation.</text>
+<text x="32" y="139" font-family="Segoe UI,Arial,sans-serif" font-size="17" fill="#dddddd">Currently developing document intelligence and student-support tools, while strengthening</text>
+<text x="32" y="164" font-family="Segoe UI,Arial,sans-serif" font-size="17" fill="#dddddd">backend engineering, data structures, and practical machine-learning skills.</text>
+<text x="32" y="190" font-family="Consolas,monospace" font-size="14" fill="#ff6b6b">Python • GenAI • RAG • FastAPI • SQL</text>
+</svg>
