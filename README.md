@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./profile/hero.svg" width="100%" alt="Piyush Panigrahi | AI and GenAI Developer"/>
+<img src="./profile/hero (1).svg" width="100%" alt="Piyush Panigrahi | AI and GenAI Developer"/>
 
 <br/>
 
@@ -16,7 +16,7 @@
 
 <br/><br/>
 
-<img src="./profile/terminal.svg" width="85%" alt="Animated terminal intro"/>
+<img src="./profile/terminal (1).svg" width="85%" alt="Animated terminal intro"/>
 
 </div>
 
@@ -27,7 +27,7 @@
 <p align="center"><sub><i>Building practical AI applications with strong backend foundations</i></sub></p>
 
 <p align="center">
-  <img src="./profile/about.svg" width="92%" alt="About Piyush Panigrahi"/>
+  <img src="./profile/about (2).svg" width="92%" alt="About Piyush Panigrahi"/>
 </p>
 
 > **Currently looking for:** internship and collaborative opportunities in Generative AI, AI Engineering, Machine Learning, and Python Backend Development.
