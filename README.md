@@ -45,7 +45,7 @@
 
 | Project | What it does | Tech stack | Links |
 |---|---|---|---|
-| **PaperChat** | AI-powered research assistant for PDF-based Q&A, source citations, conversational memory, and document understanding. Uses a 5-stage hybrid RAG pipeline with query rewriting, dense retrieval, BM25, Reciprocal Rank Fusion, and cross-encoder reranking. | Python, FastAPI, LangChain, Gemini 2.5 Flash, Qdrant, PostgreSQL, SQLAlchemy, Docker | [Code](https://github.com/Piyush21-03/Paperchat) |
+| **PaperChat** | AI-powered research assistant for PDF-based Q&A, source citations, conversational memory, and document understanding. Uses a 5-stage hybrid RAG pipeline with query rewriting, dense retrieval, BM25, Reciprocal Rank Fusion, and cross-encoder reranking. | Python, FastAPI, LangChain, Gemini 2.5 Flash, Qdrant, PostgreSQL, SQLAlchemy, Docker | [Code](https://github.com/Piyush21-03/Paper_Chat.git) |
 | **CampusAI+** | AI student-support platform combining a Gemini-powered assistant with an ML-based placement predictor and personalized career guidance. | Python, Flask, Gemini API, scikit-learn, Random Forest, Pandas | [Live demo](https://campus-ai-project.onrender.com) |
 | **AQI Prediction & Hotspot Analysis** | Academic project exploring air-quality data processing, prediction, and hotspot analysis using data-driven methods. | Python, Pandas, NumPy, scikit-learn, APIs / sensor-data concepts | [GitHub repositories](https://github.com/Piyush21-03?tab=repositories) |
 
