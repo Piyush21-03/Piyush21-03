@@ -1,28 +1,71 @@
-name: Generate 3D Contribution Graph
+name: GitHub-Profile-3D-Contrib
 
 on:
   schedule:
-    - cron: "17 0 * * *"
+    - cron: "0 18 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 permissions:
   contents: write
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Generate 3D contribution graph
         uses: yoshi389111/github-profile-3d-contrib@latest
         env:
-          USERNAME: Piyush21-03
-      - name: Publish generated graph
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./profile-3d-contrib
-          publish_branch: profile-3d-contrib
-          force_orphan: true
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Apply black and red color palette
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+
+          root = Path("profile-3d-contrib")
+          if not root.exists():
+              raise SystemExit("Expected profile-3d-contrib output folder was not generated")
+
+          # Map the standard contribution colors to a black -> crimson -> bright red palette.
+          palette = {
+              "#ebedf0": "#171717",
+              "#9be9a8": "#4a0000",
+              "#40c463": "#8b0000",
+              "#30a14e": "#d1192d",
+              "#216e39": "#ff4b4b",
+              "#eeeeee": "#171717",
+              "#c6e48b": "#4a0000",
+              "#7bc96f": "#8b0000",
+              "#239a3b": "#d1192d",
+              "#196127": "#ff4b4b",
+          }
+
+          changed = 0
+          for path in root.rglob("*.svg"):
+              data = path.read_text(encoding="utf-8")
+              updated = data
+              for old, new in palette.items():
+                  updated = re.sub(re.escape(old), new, updated, flags=re.IGNORECASE)
+              if updated != data:
+                  path.write_text(updated, encoding="utf-8")
+                  changed += 1
+          print(f"Applied black/red contribution palette to {changed} SVG files")
+          PY
+
+      - name: Commit and push generated graph
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add profile-3d-contrib
+          if git diff --cached --quiet; then
+            echo "No graph changes to commit."
+          else
+            git commit -m "Update black and red 3D contribution graph"
+            git push
+          fi
