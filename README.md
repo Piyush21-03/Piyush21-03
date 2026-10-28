@@ -1,216 +1,226 @@
-<div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+<div align="center">
 
-<!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:8E44AD&height=220&section=header&text=Hi%20there,%20I'm%20Piyush%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20(Data%20Science)%20Undergrad%20%7C%20AI/ML%20%26%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="./profile/hero.svg" width="100%" alt="Piyush Panigrahi | AI and GenAI Developer"/>
 
 <br/>
 
-<!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+AI-integrated+applications+%F0%9F%A4%96;Exploring+Generative+AI+%26+Prompt+Engineering+%E2%9C%A8;Solving+DSA+problems+one+day+at+a+time+%F0%9F%92%BB;Always+shipping+something+new+%F0%9F%9A%80&font=Fira+Code&center=true&width=600&height=45&color=8E44AD&vCenter=true&size=22&pause=1500" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF4B4B&center=true&vCenter=true&width=650&lines=Python+Developer+%7C+GenAI+Application+Developer;LLMs+%7C+RAG+%7C+FastAPI;Building+useful+AI+products+%F0%9F%9A%80" alt="Typing SVG"/>
 </a>
-
-<br/><br/>
-
-<!-- SOCIAL BADGES -->
-<a href="https://www.linkedin.com/in/piyush-panigrahi-64117a330" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/Piyush21-03" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="mailto:piyushpanigrahi21@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="tel:8144038125" target="_blank">
-  <img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=Piyush21-03&style=for-the-badge&color=8E44AD&label=PROFILE+VIEWS" alt="Profile Views" />
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-<br/><br/>
-
-<!-- ABOUT ME SECTION -->
-<h2>🚀 About Me</h2>
-
-<table width="85%" align="center">
-  <tr>
-    <td align="center">🎓 <b>Education</b></td>
-    <td align="center">B.Tech CSE (Data Science), ABES Engineering College, Ghaziabad (AKTU)</td>
-  </tr>
-  <tr>
-    <td align="center">📈 <b>CGPA</b></td>
-    <td align="center">7.7 &nbsp;·&nbsp; Expected Graduation: July 2028</td>
-  </tr>
-  <tr>
-    <td align="center">💻 <b>Focus</b></td>
-    <td align="center">AI-Integrated Apps, Machine Learning, Full-Stack Development</td>
-  </tr>
-  <tr>
-    <td align="center">🧠 <b>Exploring</b></td>
-    <td align="center">Generative AI, Prompt Engineering, Model Integration</td>
-  </tr>
-  <tr>
-    <td align="center">🛡️ <b>Internship</b></td>
-    <td align="center">Cybersecurity — IBM SkillsBuild (Virtual)</td>
-  </tr>
-  <tr>
-    <td align="center">🏆 <b>DSA</b></td>
-    <td align="center">350+ problems on CodeChef &nbsp;·&nbsp; 90+ on LeetCode</td>
-  </tr>
-  <tr>
-    <td align="center">🌱 <b>Building</b></td>
-    <td align="center">CampusAI (AI platform) &nbsp;·&nbsp; DailyStore (E-commerce)</td>
-  </tr>
-  <tr>
-    <td align="center">📫 <b>Contact</b></td>
-    <td align="center">piyushpanigrahi21@gmail.com</td>
-  </tr>
-</table>
-
-<br/><br/>
-
-<!-- TECH STACK SECTION -->
-<h2>🛠️ Tech Stack</h2>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-
-<br/><br/>
-
-<!-- CORE FOCUS AREAS SECTION -->
-<h2>💡 Core Focus Areas</h2>
-
-<table width="85%" align="center">
-  <tr>
-    <td align="center" width="33%">🧮<br/><b>Data Structures & Algorithms</b></td>
-    <td align="center" width="33%">🤖<br/><b>Machine Learning</b></td>
-    <td align="center" width="33%">✨<br/><b>Generative AI</b></td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">🗣️<br/><b>Prompt Engineering</b></td>
-    <td align="center" width="33%">🌐<br/><b>Full-Stack Development</b></td>
-    <td align="center" width="33%">🎯<br/><b>Vibe Coding</b></td>
-  </tr>
-</table>
-
-<br/><br/>
-
-<!-- FEATURED PROJECTS SECTION -->
-<h2>🌟 Featured Projects</h2>
-
-<table width="85%" align="center">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <h3>🤖 CampusAI</h3>
-      <p><i>Full-Stack AI Platform</i></p>
-      <p>A full-stack web application integrating AI and Machine Learning models into campus-focused use cases — connecting frontend, backend, and ML-based intelligent features end-to-end.</p>
-      <br/>
-      <img src="https://img.shields.io/badge/Status-In%20Development-yellow?style=flat-square" />
-    </td>
-    <td width="50%" align="center" valign="top">
-      <h3>🛒 DailyStore</h3>
-      <p><i>E-Commerce Website</i></p>
-      <p>A fully functional e-commerce platform built with HTML, CSS, and JavaScript — featuring product listing, cart, and checkout flow with a clean, responsive UI/UX.</p>
-      <br/>
-      <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square" />
-    </td>
-  </tr>
-</table>
-
-<br/><br/>
-
-<!-- CERTIFICATIONS SECTION -->
-<h2>🎓 Certifications</h2>
-
-<table width="85%" align="center">
-  <tr>
-    <td align="center" width="70%">☁️ <b>Cloud Architecting</b> — AWS Academy Graduate</td>
-    <td align="center" width="30%">Jun 2026</td>
-  </tr>
-  <tr>
-    <td align="center">☁️ <b>Cloud Foundations</b> — AWS Academy Graduate</td>
-    <td align="center">Feb 2026</td>
-  </tr>
-  <tr>
-    <td align="center">🤖 <b>Getting Started with Artificial Intelligence</b> — IBM SkillsBuild</td>
-    <td align="center">Jul 2026</td>
-  </tr>
-  <tr>
-    <td align="center">📊 <b>Exploratory Data Analysis</b></td>
-    <td align="center">—</td>
-  </tr>
-  <tr>
-    <td align="center">🐍 <b>Python Development</b></td>
-    <td align="center">—</td>
-  </tr>
-</table>
-
-<br/><br/>
-
-<!-- GITHUB STATS SECTION -->
-<h2>📊 GitHub Stats</h2>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Piyush21-03&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Piyush's GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush21-03&theme=radical&hide_border=true" alt="Piyush's GitHub Streak" height="165"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush21-03&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyush21-03&theme=radical&hide_border=true" width="90%"/>
-
-<br/><br/>
-
-<!-- CONTRIBUTION SNAKE SECTION -->
-<h2>🐍 Contribution Snake</h2>
-
-<img src="https://raw.githubusercontent.com/Piyush21-03/Piyush21-03/output/github-contribution-grid-snake.svg" alt="Snake animation" width="90%"/>
-
-<br/><br/>
-
-<blockquote>ℹ️ <b>Setup note:</b> the snake animation above needs a one-time GitHub Action. See the "Enable the animations" section below.</blockquote>
-
-<br/><br/>
-
-<!-- CODING PROFILES SECTION -->
-<h2>🏆 Coding Profiles</h2>
-
-<img src="https://img.shields.io/badge/LeetCode-90%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-<img src="https://img.shields.io/badge/CodeChef-350%2B%20Problems%20Solved-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-<br/><br/>
-
-<!-- FOOTER / CONNECT SECTION -->
-<h3>🤝 Let's Connect</h3>
-
-<p><i>Always open to interesting conversations, collaborations, and new ideas.</i></p>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/piyush-panigrahi-64117a330" target="_blank">
-  <img src="https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<img src="https://img.shields.io/badge/Open%20to-AI%20%26%20Backend%20Internships-ff3b3b?style=for-the-badge&labelColor=111111" alt="Open to AI and Backend Internships"/>
+<img src="https://img.shields.io/badge/B.Tech-2028-ff3b3b?style=for-the-badge&labelColor=111111" alt="B.Tech 2028"/>
+<img src="https://img.shields.io/badge/Based%20in-India-ff3b3b?style=for-the-badge&labelColor=111111" alt="Based in India"/>
 
 <br/><br/>
+
+<img src="./profile/terminal.svg" width="85%" alt="Animated terminal intro"/>
 
 </div>
+
+<br/>
+
+<a id="about"></a>
+<h2 align="center">━━━ <code> 👋 ABOUT ME </code> ━━━</h2>
+<p align="center"><sub><i>Building practical AI applications with strong backend foundations</i></sub></p>
+
+<p align="center">
+  <img src="./profile/about.svg" width="92%" alt="About Piyush Panigrahi"/>
+</p>
+
+> **Currently looking for:** internship and collaborative opportunities in Generative AI, AI Engineering, Machine Learning, and Python Backend Development.
+
+<p align="center">
+  📄 <b>GitHub Profile Repo:</b> <a href="https://github.com/Piyush21-03/Piyush21-03">Open repository</a>
+  &nbsp;•&nbsp;
+  💼 <a href="https://www.linkedin.com/in/piyushpanigrahi-sde">LinkedIn</a>
+</p>
+
+<br/>
+
+<h2 align="center">━━━ <code> 🚀 FEATURED PROJECTS </code> ━━━</h2>
+<p align="center"><sub><i>Projects focused on AI, retrieval, and real-world problem solving</i></sub></p>
+
+| Project | What it does | Tech stack | Links |
+|---|---|---|---|
+| **PaperChat** | AI-powered research assistant for PDF-based Q&A, source citations, conversational memory, and document understanding. Uses a 5-stage hybrid RAG pipeline with query rewriting, dense retrieval, BM25, Reciprocal Rank Fusion, and cross-encoder reranking. | Python, FastAPI, LangChain, Gemini 2.5 Flash, Qdrant, PostgreSQL, SQLAlchemy, Docker | [Code](https://github.com/Piyush21-03/Paperchat) |
+| **CampusAI+** | AI student-support platform combining a Gemini-powered assistant with an ML-based placement predictor and personalized career guidance. | Python, Flask, Gemini API, scikit-learn, Random Forest, Pandas | [Live demo](https://campus-ai-project.onrender.com) |
+| **AQI Prediction & Hotspot Analysis** | Academic project exploring air-quality data processing, prediction, and hotspot analysis using data-driven methods. | Python, Pandas, NumPy, scikit-learn, APIs / sensor-data concepts | [GitHub repositories](https://github.com/Piyush21-03?tab=repositories) |
+
+<br/>
+
+<h3 align="center"><code> 🧩 Architecture </code></h3>
+
+<details>
+<summary><b>PaperChat — Hybrid RAG pipeline</b></summary>
+
+```mermaid
+flowchart LR
+    A["PDF Upload"] --> B["PyPDFLoader"]
+    B --> C["Text Splitting"]
+    C --> D["MiniLM Embeddings"]
+    D --> E[("Qdrant Vector Search")]
+    Q["User Question"] --> R["Query Rewriting"]
+    R --> E
+    R --> BM["BM25 Retrieval"]
+    E --> F["Reciprocal Rank Fusion"]
+    BM --> F
+    F --> G["Cross-Encoder Reranking"]
+    G --> H["Gemini 2.5 Flash"]
+    H --> I["Answer + Source Citations"]
+    DB[("PostgreSQL")] --- J["Chat History & Auth"]
+```
+
+</details>
+
+<details>
+<summary><b>CampusAI+ — Student support and placement prediction</b></summary>
+
+```mermaid
+flowchart LR
+    U["Student"] --> UI["Web Interface"]
+    UI --> API["Flask REST API"]
+    API --> AI["Gemini-powered Student Assistant"]
+    API --> ML["Random Forest Placement Predictor"]
+    DATA[("Student Performance Dataset")] --> ML
+    AI --> OUT["Context-aware Guidance"]
+    ML --> OUT2["Prediction + Probability Score"]
+    OUT --> UI
+    OUT2 --> UI
+```
+
+</details>
+
+<br/>
+
+<h2 align="center">━━━ <code> 🛠️ TECH STACK </code> ━━━</h2>
+<p align="center"><sub><i>Tools and technologies I work with</i></sub></p>
+
+<p align="center"><b>💻 Languages & Web</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=111111" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=111111" alt="Java"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=111111" alt="C++"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=111111" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=111111" alt="SQL"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=111111" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=111111" alt="CSS3"/>
+</p>
+
+<p align="center"><b>🧠 AI, ML & Backend</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Generative%20AI-FF3030?style=for-the-badge&labelColor=111111" alt="Generative AI"/>
+  <img src="https://img.shields.io/badge/RAG-CC2222?style=for-the-badge&labelColor=111111" alt="RAG"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white&labelColor=111111" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=111111" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Flask-FFFFFF?style=for-the-badge&logo=flask&logoColor=black&labelColor=111111" alt="Flask"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=111111" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=111111" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=111111" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&labelColor=111111" alt="Gemini API"/>
+</p>
+
+<p align="center"><b>🗄️ Databases, Tools & Deployment</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=111111" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&labelColor=111111" alt="Qdrant"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=111111" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=111111" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=111111" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=black&labelColor=111111" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=111111" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black&labelColor=111111" alt="Render"/>
+</p>
+
+<br/>
+
+<h2 align="center">━━━ <code> 🏆 EXPERIENCE & HIGHLIGHTS </code> ━━━</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>🤖</h3>
+      <b>Generative AI Virtual Internship</b><br/>
+      IBM SkillsBuild<br/>
+      <sub>June 2026 – August 2026</sub>
+    </td>
+    <td align="center" width="50%">
+      <h3>🛡️</h3>
+      <b>Cybersecurity Virtual Internship</b><br/>
+      IBM SkillsBuild<br/>
+      <sub>September 2025 – November 2025</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>💻</h3>
+      <b>100+ LeetCode Problems</b><br/>
+      <sub>Problem-solving practice</sub>
+    </td>
+    <td align="center" width="50%">
+      <h3>⚡</h3>
+      <b>350+ CodeChef Problems</b><br/>
+      <sub>Competitive programming practice</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<h2 align="center">━━━ <code> 🎯 CURRENT FOCUS </code> ━━━</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Generative%20AI-FF3030?style=for-the-badge&labelColor=111111" alt="Generative AI"/>
+  <img src="https://img.shields.io/badge/RAG%20%26%20LLMs-CC2222?style=for-the-badge&labelColor=111111" alt="RAG and LLMs"/>
+  <img src="https://img.shields.io/badge/Python%20Backend-FF4B4B?style=for-the-badge&labelColor=111111" alt="Python Backend"/>
+  <img src="https://img.shields.io/badge/SQL%20%26%20Databases-8B0000?style=for-the-badge&labelColor=111111" alt="SQL and Databases"/>
+  <img src="https://img.shields.io/badge/DSA-FF3030?style=for-the-badge&labelColor=111111" alt="Data Structures and Algorithms"/>
+</p>
+
+<br/>
+
+<h2 align="center">━━━ <code> 📊 STATS DASHBOARD </code> ━━━</h2>
+<p align="center"><sub><i>GitHub activity and coding practice</i></sub></p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Piyush21-03&show_icons=true&hide_border=true&bg_color=0d0000,1a0000,260000&title_color=ff4b4b&text_color=eeeeee&icon_color=ff3030&ring_color=ff3030" height="180" alt="Piyush's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush21-03&layout=compact&hide_border=true&bg_color=0d0000,1a0000,260000&title_color=ff4b4b&text_color=eeeeee" height="180" alt="Most used languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush21-03&hide_border=true&background=0d0000&ring=ff3030&fire=ff4b4b&currStreakLabel=ff4b4b&sideLabels=eeeeee&dates=aaaaaa&sideNums=eeeeee&currStreakNum=eeeeee" width="75%" alt="GitHub contribution streak"/>
+</p>
+
+<!-- 3D contribution graph: generated daily by the GitHub Actions workflow in .github/workflows/profile-3d.yml -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Piyush21-03/Piyush21-03/profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D GitHub contribution graph"/>
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Piyush21-03?theme=dark&font=Fira%20Code&ext=heatmap" width="500" alt="LeetCode stats (if the username matches the LeetCode profile)"/>
+</p>
+
+<br/>
+
+<h2 align="center">━━━ <code> 🔗 CONNECT </code> ━━━</h2>
+<p align="center"><sub><i>Always happy to learn, build, and collaborate</i></sub></p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/piyushpanigrahi-sde">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-FF3030?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111111" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Piyush21-03">
+    <img src="https://img.shields.io/badge/GitHub-Follow-FF3030?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" alt="GitHub"/>
+  </a>
+  <a href="mailto:piyushpanigrahi21@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-FF3030?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111111" alt="Email"/>
+  </a>
+</p>
+
+<p align="center">
+  <sub>⭐ Thanks for visiting! Explore my repositories and feel free to connect.</sub><br/>
+  <a href="#about"><sub>↑ Back to top</sub></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080000,40:300000,100:ff3030&height=130&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%9A%80&fontSize=22&fontColor=ffffff&animation=fadeIn" width="100%" alt="Red and black gradient footer"/>
