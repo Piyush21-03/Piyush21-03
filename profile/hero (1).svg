@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#080808"/><stop offset="52%" stop-color="#210000"/><stop offset="100%" stop-color="#b5121b"/></linearGradient>
+  <radialGradient id="glow"><stop offset="0%" stop-color="#ff3030" stop-opacity=".35"/><stop offset="100%" stop-color="#ff3030" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1200" height="270" rx="18" fill="url(#bg)"/>
+<circle cx="1020" cy="60" r="250" fill="url(#glow)"/>
+<g fill="none" stroke="#ff4b4b" stroke-opacity=".22"><path d="M0 220 L260 0 M70 270 L340 0 M860 270 L1120 0 M970 270 L1200 70"/><path d="M0 55 H1200 M0 215 H1200"/></g>
+<text x="600" y="112" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="22" fill="#ffaaaa" letter-spacing="5">AI • GENERATIVE AI • BACKEND</text>
+<text x="600" y="166" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="48" font-weight="700" fill="#ffffff">PIYUSH PANIGRAHI</text>
+<text x="600" y="205" text-anchor="middle" font-family="Consolas,monospace" font-size="20" fill="#ff5b5b">Turning ideas into practical AI applications</text>
+<rect x="500" y="228" width="200" height="4" rx="2" fill="#ff3030"/>
+</svg>
